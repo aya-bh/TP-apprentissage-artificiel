@@ -32,7 +32,7 @@ def construire():
                 crosstable[prod][j] = 1
     return (crosstable)
 print("fonction pour construire un tableau binaire")
-print(construire().head(5))
+print(construire())
 
 #5
 print("bibliotheque Crosstab : ")
